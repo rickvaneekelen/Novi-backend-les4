@@ -75,7 +75,7 @@ class FirePokemon extends Pokemon{
     }
 }
 class WaterPokemon extends Pokemon{
-    private String aanval = "water aanval";
+    private String aanval = "waterr aanval";
     private int schade = 10;
     WaterPokemon(String name, int health, int lengte){
         super(name,health,lengte);

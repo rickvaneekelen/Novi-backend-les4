@@ -18,7 +18,7 @@
             //attack skill
             //defend skill
 //
-
+//
 
 class Program{
     public static void main(String[] args){
@@ -55,6 +55,7 @@ class Program{
         System.out.println("gras f2 = " );
         Gras.aanval2();
         //testing done
+        System.out.println("einde" );
     }
 }
 
